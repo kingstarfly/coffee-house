@@ -1,0 +1,12 @@
+{
+  "name": "coffee-house",
+  "displayName": "coffee-house",
+  "expo": {
+    "name": "coffee-house",
+    "slug": "coffee-house",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
