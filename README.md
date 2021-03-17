@@ -5,99 +5,34 @@
 
 <h1 align="center">CoffeeHouse</h1>
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A one stop social media community that better prepares and matches youths to jobs in different industries
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This project is a submission for Hack For Good 2021 organised by DSCNUS, targeting the problem statement #1 by Access which goes as follows:
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+Traditionally, industry interest and understanding have been accessed by looking at past experiences on the resumes of youths. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
+How can we better reflect their interest and understanding of different industries and jobs for better job matching?
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Figma](https://figma.com) - UI/UX Prototyping
+- [React Native](https://reactnative.dev/) - Mobile Dev Framework
+- [Expo](https://expo.io) - Mobile Dev Framework
+- [React Native Elements](https://reactnativelements.com/) - React Native UI Library
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [@kingstarfly](https://github.com/kingstarfly) - App Developer, UI/UX Developer
+- [@bob](https://github.com/kingstarfly) - UI/UX Development, ideation
+- @shaun[](https://github.com) - Marketing
+- @Ben[](https://github.com) - Ideation
