@@ -3,20 +3,26 @@ import {
   ImageBackground,
   StyleSheet,
   KeyboardAvoidingView,
+  View,
 } from "react-native";
-// import { theme } from '../core/theme'
 
-const Background = ({ children }) => (
-  <ImageBackground
-    source={require("../assets/coffee-bg.png")}
-    resizeMode="repeat"
-    style={styles.background}
-  >
-    <KeyboardAvoidingView style={styles.container} behavior="padding">
-      {children}
-    </KeyboardAvoidingView>
-  </ImageBackground>
-);
+import { theme } from "../core/theme";
+
+const Background = ({ children }) => {
+  return (
+    <View style={{ flex: 1, flexDirection: "column" }}>
+      <ImageBackground
+        source={require("../assets/bg.png")}
+        // resizeMode="repeat"
+        style={styles.background}
+      >
+        <KeyboardAvoidingView style={styles.container} behavior="padding">
+          {children}
+        </KeyboardAvoidingView>
+      </ImageBackground>
+    </View>
+  );
+};
 
 const styles = StyleSheet.create({
   background: {

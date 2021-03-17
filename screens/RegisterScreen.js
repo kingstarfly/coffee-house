@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { View, StyleSheet, TouchableOpacity } from "react-native";
 import { useTheme, Text, Button, Header, Input } from "react-native-elements";
+
+import { theme } from "../core/theme";
 import Background from "../components/Background";
 // import Logo from '../components/Logo'
 // import Header from '../components/Header'
