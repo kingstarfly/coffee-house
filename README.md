@@ -5,9 +5,13 @@
 
 <h1 align="center">CoffeeHouse</h1>
 
-<p align="center"> A one stop social media community that better prepares and matches youths to jobs in different industries
-    <br> 
+<p align="center"> A one stop social media community that better prepares and matches youths to jobs in different industries.
+
+
 </p>
+
+See the Video Demo here: 
+[CoffeeHouse Video Demo](https://drive.google.com/file/d/1cTqGILZJCBEwmySFSMgTYS72WasvGwXK/view?usp=sharing)
 
 ## 📝 Table of Contents
 
