@@ -14,7 +14,7 @@
 - [About](#about)
 - [Built Using](#built_using)
 - [Authors](#authors)
-
+- [Future Work](#future_work)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -32,7 +32,16 @@ How can we better reflect their interest and understanding of different industri
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kingstarfly](https://github.com/kingstarfly) - App Developer, UI/UX Developer
-- [@bob](https://github.com/kingstarfly) - UI/UX Development, ideation
-- @shaun[](https://github.com) - Marketing
-- @Ben[](https://github.com) - Ideation
+- [Xing Xiang](https://github.com/kingstarfly) - App Developer, UI/UX Developer
+- [Bob Lin](https://github.com/kingstarfly) - UI/UX Development, Ideation
+- [Shaun](https://www.linkedin.com/in/shaun-tieon-61756717a/) - Marketing, Ideation
+- [Benjamin](https://github.com/Benjamintdk) - Ideation
+
+## 😃 Future Work <a name = "future_work"></a>
+We believe CoffeeHouse has tons of potential to bring more value to the world! Here are some of the future work in the pipelines:
+- Complete implementation of the app!
+- Expansion into a wider target audience of students.
+- Building a recommendation system to track student profiles
+- Linking up to a database
+- Creation of polls to allow youths to indicate topics of interest
+- Allowing users to listen to past recorded chats
